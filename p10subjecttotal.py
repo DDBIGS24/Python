@@ -1,0 +1,6 @@
+number1=float(input("Enter number1 =>"))
+number2=float(input("Enter numbre2 =>"))
+print("Addition = ", number1 + number2)
+print("Subtraction = " , number1 - number2)
+print("Multiplication = " , number1 * number2)
+print("Division = " , number1 / number2)
